@@ -1,0 +1,83 @@
+
+
+/* GENERAL RULES */
+body{
+  color: #ffffff;
+}
+
+body ul li {
+  text-decoration: none;
+}
+body ul li a {
+  color: inherit;
+}
+
+.title {
+  text-transform: uppercase;}
+
+/* END OF GENERAL RULES */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* HEADER SECTION */
+/* Navbar */
+
+
+.ms_navbar {
+  color: #ffffff;
+  background-color: #2c3e50;
+  text-align: center;
+  text-transform: uppercase;
+  line-height: 50px;
+}
+
+.ms_navbar .left, .right{
+  line-height: 50px;
+}
+
+.ms_navbar ul li {
+  display: inline-block;
+}
+/* End of Navbar */
+/* END OF HEADER SECTION */
+
+/* MAIN SECTION */
+main {
+  color: #2c3e50;
+}
+
+.ms_jumbotron {
+  padding-top: 50px;
+  height: 200px;
+  background-color: #1abc9c;
+  text-transform: uppercase;
+  text-align: center;
+}
+.ms_portfolio{
+  text-align: center;
+  color: #2c3e50;
+}
+
+.item-wrapper {
+  background-color: #ffffff;
+}
+.item{
+  background-color: #ba4b63;
+  height: 100px;
+
+}
+
+/* END OF MAIN SECTION */
