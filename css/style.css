@@ -75,8 +75,10 @@ main {
   background-color: #ffffff;
 }
 .item{
+  margin-bottom: 25px;
+  border-radius: 7px;
   background-color: #ba4b63;
-  height: 100px;
+  height: 300px;
 
 }
 
